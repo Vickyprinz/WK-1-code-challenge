@@ -15,7 +15,18 @@ This program accepts a speed input and, depending on how fast it is, either prod
 
 
 # Net Salary Calculator
+This software accepts the basic salary and benefits as inputs and outputs the net salary after deductions for NSSF, NHIF, and PAYE payments. Personal relief is another consideration.
+
+## Program Usage
+  
+  Call the function inputScore and pass a score as the parameter if you want to use the Student Grade Generator.
+  
+  Call the function speedLimitDetector and pass the argument speed, for example, to use the Speed Limit Detector.
+
+speedLimitDetector
+Call the function netSalaryCalculator and add the base pay and benefits, for example, to utilize the net salary calculator.
 
 
-Author:Victor Kariuki
-License:ISC
+## Author: [Victor Kariuki](https://github.com/Vickyprinz)
+
+## License:ISC
