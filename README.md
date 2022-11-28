@@ -27,6 +27,6 @@ speedLimitDetector
 Call the function netSalaryCalculator and add the base pay and benefits, for example, to utilize the net salary calculator.
 
 
-## Author: [Victor Kariuki](https://github.com/Vickyprinz)
+## Author: [Victor-Kariuki](https://github.com/Vickyprinz)
 
 ## License:ISC
