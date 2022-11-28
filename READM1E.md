@@ -1,0 +1,2 @@
+# Speed Detector
+This program accepts a speed input and, depending on how fast it is, either produces an alright result or, if the speed exceeds the speed limit, returns demerit points. The program suspends the license if the speed surpasses 70 by 5km/s give the driver one demerit point and prints the total number of demerit points.If the driver points is higher than 12 points, the program suspends the drivers licence
