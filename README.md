@@ -8,3 +8,16 @@ a value less than 49 and greater than 59 the grade returned is C
 a value greater than 49 and less than 39 the grade returned is D
 and any value less than 39 the grade returned is E
 
+
+
+# Speed Detector
+This program accepts a speed input and, depending on how fast it is, either produces an alright result or, if the speed exceeds the speed limit, returns demerit points. The program suspends the license if the speed surpasses 70 by 5km/s give the driver one demerit point and prints the total number of demerit points.If the driver points is higher than 12 points, the program suspends the drivers licence
+
+
+# Net Salary Calculator
+
+
+
+
+Author:Victor Kariuki
+License:ISC
