@@ -17,7 +17,5 @@ This program accepts a speed input and, depending on how fast it is, either prod
 # Net Salary Calculator
 
 
-
-
 Author:Victor Kariuki
 License:ISC
