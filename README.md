@@ -1,4 +1,9 @@
 # Description
+# Getting Started
+In order for you to use the content on this repo ensure you have the following:
+
+- A computer that runs on either of the following; (Windows 7+, Linux, Mac OS)
+- nodejs 9.0+
 ## The student grade generator 
 This code is written in both html and javascript language
 first it will prompt you to input the value of your grade then after it returns the grade
